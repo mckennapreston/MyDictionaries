@@ -1,7 +1,6 @@
 ## left side key, right side value
 phonebook = {"Chris": "555−1111", "Katie": "555−2222", "Joanne": "555−3333"}
 
-"""
 
 print()
 print("*****  start section 1 - print dictionary ********")
@@ -14,7 +13,7 @@ print(type(phonebook))
 phone = phonebook["Chris"]
 
 print(phone)
-
+'''
 print(len(phonebook))
 
 
@@ -53,7 +52,7 @@ print()
 ## tuple - mutable
 
 phonebook["chris"] = "555-0123"
-phonebook["chris"] = "555-4444"
+phonebook["Chris"] = "555-4444"
 print(phonebook)
 
 print()
@@ -168,3 +167,4 @@ print(phone)
 print()
 print("*****  end section 11 ********")
 print()
+'''
