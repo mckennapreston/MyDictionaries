@@ -168,3 +168,7 @@ print()
 print("*****  end section 11 ********")
 print()
 '''
+# py -3 -m venv .venvironment
+# Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope process
+# .\.venvironment\Scripts\activate
+# pip install matplotlib
